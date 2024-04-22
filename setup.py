@@ -19,8 +19,6 @@ setup(
     install_requires=[
         "torch>=2.1.0",
         "torchvision>=0.16.0",
-        "torchgeo",
-        "torchgeo",
         "requests",
         "matplotlib",
         "torchgeo[all]",
